@@ -4,7 +4,7 @@
  Steps in vscode to view project both frontend and backend
  1. Open VScode and choose folder repository and open terminal in vscode
  2. Paste in terminal git clone "https://github.com/gowthaamaneswar/project-nexus.git"
- 3. cd frontend and cd backend
+ 3. Type cd frontend and cd backend
  4. Split terminal into bothsides
  5. Type both sides npm install
  6. See in front-end src folder resources file in it databases name is "db_restaurant.sql"
