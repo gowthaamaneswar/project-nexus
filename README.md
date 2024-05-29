@@ -31,13 +31,20 @@ HOME PAGE
  4. Split terminal into bothsides
  5. Type both sides npm install
  6. See in front-end src folder resources file in it databases name is "db_restaurant.sql"
- 7. download xampp application and install
- 8. open xampp control panel in that connect start in apache and mysql
- 9. go to give new databases in db_restaurant.sql
- 10. come back to terminal
- 11. in frontend type npm run serve
- 12. in backend type npm start 
- 13. run the application in localhost:8080 port number in local system.
- 14. open the any browser like chrome,firebox
- 15. run the application.
+ 7. Download xampp application and install
+ 8. Open xampp control panel in that connect start in apache and mysql
+ 9. Go to give new databases in db_restaurant.sql
+ 10. Come back to terminal
+ 11. In frontend type npm run serve
+ 12. In backend type npm start 
+ 13. Run the application in localhost:8080 port number in local system.
+ 14. Open the any browser like chrome,firebox
+ 15. Run the application.
+ 16. Go the register panel to register your details
+ 17. Go to the login panel give your gmail and password
+ 18. Go the menu section order your food
+ 19. Select the food add to cart to purchase
+ 20. Give payment details
+ 21. Give http://localhost:8080/admin
+ 22. Admin password:2024 to access the admin panel
 Give a star if you like it!
