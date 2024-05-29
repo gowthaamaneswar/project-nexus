@@ -1,4 +1,5 @@
 # restaurant-ordering-system
+HOME PAGE
 ![Screenshot 2024-05-27 162815](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/18fedc05-1f29-4e27-a2b5-d4a3fdf47f72)
 ![Screenshot 2024-05-27 162834](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/0cd4ed8e-98d6-4b7f-ab5f-a19ed391ec01)
 ![Screenshot 2024-05-27 162918](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/172f84df-38c7-4b28-af9c-368a31f96a7d)
