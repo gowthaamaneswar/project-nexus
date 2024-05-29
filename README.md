@@ -23,7 +23,7 @@ HOME PAGE
 #ADMIN PANEL
 ![Screenshot 2024-05-29 083225](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/d323b0ef-ccfd-47a7-b545-494f00060e40)
 
- restaurant ordering system using login and signup 
+ Restaurant Ordering System Using Login and Signup 
  Steps in vscode to view project both frontend and backend
  1. Open VScode and choose folder repository and open terminal in vscode
  2. Paste in terminal git clone "https://github.com/gowthaamaneswar/project-nexus.git"
