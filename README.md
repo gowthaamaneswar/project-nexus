@@ -17,7 +17,7 @@ HOME PAGE
 #CHECKOUT
 ![Screenshot 2024-05-29 082923](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/cc9b550c-46b6-4879-862a-dcfb3a478282)
 #REGISTER
-![Screenshot 2024-05-29 083134](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/1087e678-f619-4d81-87ba-ad1c858b0058)
+
 
 
 
