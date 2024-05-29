@@ -17,10 +17,11 @@ HOME PAGE
 #CHECKOUT
 ![Screenshot 2024-05-29 082923](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/cc9b550c-46b6-4879-862a-dcfb3a478282)
 #REGISTER
-
-
-
-
+![Screenshot 2024-05-29 082923](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/b8bb0d92-00ee-4535-be3e-7feebc560e8f)
+#LOGIN
+![Screenshot 2024-05-29 084406](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/5a9b6511-5d85-4740-bba4-794a74c7b515)
+#ADMIN PANEL
+![Screenshot 2024-05-29 083225](https://github.com/gowthaamaneswar/project-nexus/assets/101704394/d323b0ef-ccfd-47a7-b545-494f00060e40)
 
  restaurant ordering system using login and signup 
  Steps in vscode to view project both frontend and backend
